@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.img-fluid{
+    height: 50px;
+    width: auto;
+}
+.nav-item{
+    padding: 5px;
+}
+.nav-link:hover{
+    color: #7fc431;
+    
+    padding-bottom: 3px;
+    font-weight: bold;
+}
+.nav-link{
+    font-size: 1.25em;
+    color: #017490;
+    
+}
+.appoint{
+    background-image: linear-gradient(to right,#7fc431,#017490) ;
+    height: 2.5rem;
+    width: 15rem;
+    margin-right: 2rem;
+    border-radius: 1rem;
+    text-align: center;
+    padding-top: 5px;
+    font-size:1.25em;
+    color: white;
+    
+}
+.appoint:hover{
+    background-image: linear-gradient(to right,#7fc431,#017490) ;
+    height: 2.5rem;
+    width: 15rem;
+    margin-right: 2rem;
+    border-radius: 1rem;
+    text-align: center;
+    padding-top: 5px;
+    font-size:1.25em;
+    color: white;
+    font-weight: bold;
+    
+}
+.viewTime:hover{
+    margin: 1rem;
+    border-radius: 0.7rem;
+    padding-left: 1rem;
+    color:#7fc431;
+    background-color: #017490;
+    width: 12rem;
+}
+#text2{
+    font-size: 4em;
+    margin-top: 8rem;
+    margin-left: 11rem;
+    font-style: inherit;
+    color: white;
+    font-weight: bold;
+    
+}
+.text3{
+    font-size: 1.3em;
+    margin-left: 12rem;
+    background-color: white;
+    text-align: center;
+    border-radius: 0.3rem;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 4px;
+    color: black;
+    
+}
+.text4{
+    font-size: 1.3em;
+    margin-left: 2rem;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    border-radius: 0.3rem;
+    padding-bottom: 4px;
+    color: black;
+    
+}
+.text3:hover{
+    font-size: 1.3em;
+    margin-left: 12rem;
+    background-color: #7fc431;
+    text-align: center;
+    border-radius: 0.3rem;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 4px;
+    color:white;
+}
+.text4:hover{
+    font-size: 1.3em;
+    margin-left: 2rem;
+    background-color: #7fc431;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    border-radius: 0.3rem;
+    padding-bottom: 4px;
+    color:white;
+    
+}
+.findDoctor:hover{
+    margin: 2rem;
+    border-radius: 1rem;
+     padding-left: 1rem;
+     color:white;
+     background-color: #017490;
+     width: 12rem;
+     height: 40px;
+     text-align: center;
+     padding-top: 8px;
+     font-weight: bold;
+}
