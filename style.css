@@ -34,7 +34,7 @@
     
 }
 .appoint:hover{
-    background-image: linear-gradient(to right,#7fc431,#017490) ;
+    background-image: linear-gradient(to right,#549609,#01495b) ;
     height: 2.5rem;
     width: 15rem;
     margin-right: 2rem;
@@ -43,15 +43,14 @@
     padding-top: 5px;
     font-size:1.25em;
     color: white;
-    font-weight: bold;
+    
     
 }
 .viewTime:hover{
     margin: 1rem;
     border-radius: 0.7rem;
     padding-left: 1rem;
-    color:#7fc431;
-    background-color: #017490;
+    color:#017490 !important;
     width: 12rem;
 }
 #text2{
@@ -115,10 +114,14 @@
     border-radius: 1rem;
      padding-left: 1rem;
      color:white;
-     background-color: #017490;
+     background-color: #014f63 !important;
      width: 12rem;
      height: 40px;
      text-align: center;
      padding-top: 8px;
-     font-weight: bold;
+     
+}
+
+#n{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
 }
